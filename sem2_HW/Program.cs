@@ -28,20 +28,20 @@
 // }
 
 // Задача 4: Напишите программу, которая на вход принимает натуральное число N, а на выходе показывает его цифры через запятую.
-Console.WriteLine("Введите натуральное число N");
-int N = int.Parse(Console.ReadLine());
+// Console.WriteLine("Введите натуральное число N");
+// int N = int.Parse(Console.ReadLine());
 
-if (N < 1) {Console.WriteLine("Число не натуральное");}
-else
-{
-    Console.Write($"{N} => ");
-    string str = N.ToString();
-    for(int i = 0; i <= str.Length - 1; i++)
-    {
-        Console.Write(str[i]);
-        if (i < str.Length - 1)
-        {
-            Console.Write(",");
-        }
-    }
-}
+// if (N < 1) {Console.WriteLine("Число не натуральное");}
+// else
+// {
+//     Console.Write($"{N} => ");
+//     string str = N.ToString();
+//     for(int i = 0; i <= str.Length - 1; i++)
+//     {
+//         Console.Write(str[i]);
+//         if (i < str.Length - 1)
+//         {
+//             Console.Write(",");
+//         }
+//     }
+// }
