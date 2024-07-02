@@ -38,14 +38,14 @@
 
 
 //№3
-Console.Write("Введите трёхзначное число: ");
-int number = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите трёхзначное число: ");
+// int number = Convert.ToInt32(Console.ReadLine());
 
-if (number > 99 && number < 1000)
-{
-    int n1 = number / 100;
-    int n2 = number % 10;
-    int sum = (n1 + n2);
-    Console.WriteLine(sum);
-}
-else {Console.WriteLine("Вы ввели некорректное число.");}
+// if (number > 99 && number < 1000)
+// {
+//     int n1 = number / 100;
+//     int n2 = number % 10;
+//     int sum = (n1 + n2);
+//     Console.WriteLine(sum);
+// }
+// else {Console.WriteLine("Вы ввели некорректное число.");}
