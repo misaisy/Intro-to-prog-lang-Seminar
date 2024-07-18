@@ -123,4 +123,4 @@
 // numbers[i] = Math.Round(rand.Next(0, 10) + rand.NextDouble(), 2);
 
 // for (int i = 0; i < numbers.Length; i++)
-// System.Console.Write(numbers[i] + " ");
+// System.Console.Write(numbers[i] + " ");o
