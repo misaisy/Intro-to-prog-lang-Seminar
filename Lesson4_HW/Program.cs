@@ -110,7 +110,7 @@
 //     {
 //         System.Console.WriteLine("Введите число: ");
 //         string StringCheck = Console.ReadLine();
-//         if (StringCheck == "q")
+//         if (Check == "q")
 //         {
 //             break;
 //         }
